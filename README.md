@@ -9,7 +9,7 @@ I approached the issue by asking two specific questions:
 
 It turns out that white actually has an advantage and this advantage is more concrete among players with higher ratings and in the classic game mode. However, between players of the same level this advantage is practically constant as the players' average elo varies.
 
-![Elo difference - classical]('images/elo_difference_classical.png')
+![Elo difference - classical](images/elo_difference_classical.png)
 
 ![White proability - classical](images/white_proability_classical.png)
 
